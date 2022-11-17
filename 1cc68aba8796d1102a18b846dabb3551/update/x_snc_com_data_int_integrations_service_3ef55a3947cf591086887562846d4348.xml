@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_com_data_int_integrations_service">
+    <x_snc_com_data_int_integrations_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <flow display_value="Retrieve Materials from SAP(POC -2)">7933127547cf591086887562846d4355</flow>
+        <import_set_tables>x_snc_psm_sap_intg_material_master_staging_table</import_set_tables>
+        <name>Material</name>
+        <order/>
+        <properties>{"low":"1000","high":"","sign":"I","option":"EQ"}</properties>
+        <source display_value="SAP ECC POC 1">afd5963947cf591086887562846d435a</source>
+        <sys_class_name>x_snc_com_data_int_integrations_service</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-11-09 16:33:30</sys_created_on>
+        <sys_id>3ef55a3947cf591086887562846d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1cc68aba8796d1102a18b846dabb3551</sys_name>
+        <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>x_snc_com_data_int_integrations_service_3ef55a3947cf591086887562846d4348</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:33:30</sys_updated_on>
+    </x_snc_com_data_int_integrations_service>
+</record_update>
