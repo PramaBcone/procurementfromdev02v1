@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>true</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Procurement Service Management Integration for SAP">8b8c7ff4479b111086887562846d43b2</map>
+        <reference_value_field/>
+        <source_field>u_plant</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_snc_psm_sap_intg_material_master_staging</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-11-19 07:38:32</sys_created_on>
+        <sys_id>36cc7b38479b111086887562846d4313</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_plant</sys_name>
+        <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_transform_entry_36cc7b38479b111086887562846d4313</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-11-19 07:43:19</sys_updated_on>
+        <target_field>short_description</target_field>
+        <target_table>cmdb_model</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</application>
+        <file_path/>
+        <instance_id>a4d93eb7dbce511091232f17d49619a6</instance_id>
+        <instance_name>psmdev02</instance_name>
+        <name>sys_transform_entry_36cc7b38479b111086887562846d4313</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Procurement Service Management Integration for SAP"&gt;8b8c7ff4479b111086887562846d43b2&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_plant&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_snc_psm_sap_intg_material_master_staging&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Mayank&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-19 07:38:32&lt;/sys_created_on&gt;&lt;sys_id&gt;36cc7b38479b111086887562846d4313&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_plant&lt;/sys_name&gt;&lt;sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg"&gt;1cc68aba8796d1102a18b846dabb3551&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Procurement Service Management Integration for SAP"&gt;1cc68aba8796d1102a18b846dabb3551&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_36cc7b38479b111086887562846d4313&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Mayank&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-19 07:43:19&lt;/sys_updated_on&gt;&lt;target_field&gt;short_description&lt;/target_field&gt;&lt;target_table&gt;cmdb_model&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>532595560</payload_hash>
+        <record_name>u_plant</record_name>
+        <reverted_from/>
+        <source>c6453ffc475b111086887562846d434c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-11-19 07:43:20</sys_created_on>
+        <sys_id>4efd7b78479b111086887562846d43e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848ed785f40000001</sys_recorded_at>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-11-19 07:43:20</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>86fd7b787c9b111046b8687669dddde4</update_guid>
+        <update_guid_history>86fd7b787c9b111046b8687669dddde4:532595560,33dc7b38af9b11108dc2485ffb11598d:-957749019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2022-11-23 06:46:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>4881a040d64648ffa698b496844451a9</sys_id>
+        <sys_metadata>36cc7b38479b111086887562846d4313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_plant</sys_name>
+        <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_scope_delete display_value="">5bcab6522a284c56b32126c15d077101</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_36cc7b38479b111086887562846d4313</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_36cc7b38479b111086887562846d4313">4efd7b78479b111086887562846d43e4</sys_update_version>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2022-11-23 06:46:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

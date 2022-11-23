@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Material Master Staging</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_psm_sap_intg_material_master_staging</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-11-19 07:13:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>42173f70479b111086887562846d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Material Master Staging</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_app_module_42173f70479b111086887562846d434d</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-11-19 07:13:17</sys_updated_on>
+        <timeline_page/>
+        <title>Material Master Staging</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</application>
+        <file_path/>
+        <instance_id>a4d93eb7dbce511091232f17d49619a6</instance_id>
+        <instance_name>psmdev02</instance_name>
+        <name>sys_app_module_42173f70479b111086887562846d434d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Material Master Staging</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_psm_sap_intg_material_master_staging</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-11-19 07:13:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>42173f70479b111086887562846d434d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Material Master Staging</sys_name><sys_overrides/><sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package><sys_policy/><sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope><sys_update_name>sys_app_module_42173f70479b111086887562846d434d</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-11-19 07:13:17</sys_updated_on><timeline_page/><title>Material Master Staging</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-330700759</payload_hash>
+        <record_name>Material Master Staging</record_name>
+        <reverted_from/>
+        <source>c6453ffc475b111086887562846d434c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-11-19 07:13:18</sys_created_on>
+        <sys_id>4a173f70479b111086887562846d435c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848ebc07580000001</sys_recorded_at>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-11-19 07:13:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ca173f70949b1110cf480fd66c17754f</update_guid>
+        <update_guid_history>ca173f70949b1110cf480fd66c17754f:-330700759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Material Master Staging">b96398524793951086887562846d43ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2022-11-23 06:29:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>086c326093ce434880fa0e293c3158b1</sys_id>
+        <sys_metadata>42173f70479b111086887562846d434d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Material Master Staging</sys_name>
+        <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_scope_delete display_value="">5bcab6522a284c56b32126c15d077101</sys_scope_delete>
+        <sys_update_name>sys_app_module_42173f70479b111086887562846d434d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_42173f70479b111086887562846d434d">4a173f70479b111086887562846d435c</sys_update_version>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2022-11-23 06:29:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
