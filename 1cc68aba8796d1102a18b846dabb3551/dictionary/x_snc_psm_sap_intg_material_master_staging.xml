@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Material Master Staging" max_length="40" name="x_snc_psm_sap_intg_material_master_staging" sizeclass="7015" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ABC Indicator" label="ABC Indicator" max_length="40" name="u_abc_indicator" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Base Unit of Measure" label="Base Unit of Measure" max_length="40" name="u_base_unit_of_measure" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Batch management indicator (internal)" label="Batch management indicator (internal)" max_length="40" name="u_batch_manage_tor__internal_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Client" label="Client" max_length="40" name="u_client" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Current period (posting period)" label="Current period (posting period)" max_length="40" name="u_current_peri_osting_period_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Division MARC" label="Data Division MARC" max_length="40" name="u_data_division_marc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Division MARD" label="Data Division MARD" max_length="40" name="u_data_division_mard" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Division MARC: Division 1" label="Data Division MARC: Division 1" max_length="40" name="u_data_divisio_rc__division_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date from which the plant-specific material status is valid" label="Date from which the plant-specific material status is valid" max_length="40" name="u_date_from_wh_tatus_is_valid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiscal Year of Current Period" label="Fiscal Year of Current Period" max_length="40" name="u_fiscal_year__current_period" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Flag Material for Deletion at Plant Level" label="Flag Material for Deletion at Plant Level" max_length="40" name="u_flag_materia_at_plant_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Flag Material for Deletion at Storage Location Level" label="Flag Material for Deletion at Storage Location Level" max_length="40" name="u_flag_materia_location_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gross Weight" label="Gross Weight" max_length="40" name="u_gross_weight" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Indicator: Critical part" label="Indicator: Critical part" max_length="40" name="u_indicator__critical_part" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Indicator: MRP controller is buyer (deactivated)" label="Indicator: MRP controller is buyer (deactivated)" max_length="40" name="u_indicator__m___deactivated_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry Sector" label="Industry Sector" max_length="40" name="u_industry_sector" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Language Key" label="Language Key" max_length="40" name="u_language_key" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Maintenance status" label="Maintenance status" max_length="40" name="u_maintenance_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Maintenance status (L)" label="Maintenance status (L)" max_length="40" name="u_maintenance_status__l_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Material Description" label="Material Description" max_length="40" name="u_material_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Material Group" label="Material Group" max_length="40" name="u_material_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Material Number" label="Material Number" max_length="40" name="u_material_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Material Type" label="Material Type" max_length="40" name="u_material_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Material: MRP profile" label="Material: MRP profile" max_length="40" name="u_material__mrp_profile" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Moving Average Price/Periodic Unit Price" label="Moving Average Price/Periodic Unit Price" max_length="40" name="u_moving_avera_dic_unit_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MRP Controller" label="MRP Controller" max_length="40" name="u_mrp_controller" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MRP Type" label="MRP Type" max_length="40" name="u_mrp_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Physical Inventory Blocking Indicator" label="Physical Inventory Blocking Indicator" max_length="40" name="u_physical_inv_king_indicator" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plant" label="Plant" max_length="40" name="u_plant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plant-Specific Material Status" label="Plant-Specific Material Status" max_length="40" name="u_plant_specif_aterial_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Purchasing Group" label="Purchasing Group" max_length="40" name="u_purchasing_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stock in transfer (from one storage location to another)" label="Stock in transfer (from one storage location to another)" max_length="40" name="u_stock_in_tra_on_to_another_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Storage Location" label="Storage Location" max_length="40" name="u_storage_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unit of issue" label="Unit of issue" max_length="40" name="u_unit_of_issue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Valuated Unrestricted-Use Stock" label="Valuated Unrestricted-Use Stock" max_length="40" name="u_valuated_unr_cted_use_stock" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Valuation Category" label="Valuation Category" max_length="40" name="u_valuation_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Valuation Class" label="Valuation Class" max_length="40" name="u_valuation_class" type="string"/>
+    </element>
+</database>

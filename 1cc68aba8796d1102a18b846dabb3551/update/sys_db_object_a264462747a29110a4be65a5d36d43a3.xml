@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">5ea7c3c147301110a4be65a5d36d433e</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">343e72d328201110a866e68fbebfdf59</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
@@ -34,7 +34,7 @@
         <sys_updated_by>Mayank</sys_updated_by>
         <sys_updated_on>2022-10-21 05:10:32</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_snc_psm_sap_intg.material_master_staging_table_user" name="x_snc_psm_sap_intg.material_master_staging_table_user">89e44a2747a29110a4be65a5d36d4380</user_role>
+        <user_role display_value="Procurement Service Management Integration for SAP" name="x_snc_psm_sap_intg.material_master_staging_table_user">89e44a2747a29110a4be65a5d36d4380</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

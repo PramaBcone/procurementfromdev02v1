@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_com_data_int_integrations_service">
     <x_snc_com_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>true</active>
-        <flow display_value="Fetch Material from SAP ECC">a75873f0479b111086887562846d4307</flow>
+        <flow/>
         <import_set_tables>x_snc_psm_sap_intg_material_master_staging</import_set_tables>
         <name>Material master</name>
         <order/>

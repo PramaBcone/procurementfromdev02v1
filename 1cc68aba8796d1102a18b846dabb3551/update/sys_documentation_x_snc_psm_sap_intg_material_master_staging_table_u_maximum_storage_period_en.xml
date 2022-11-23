@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_maximum_storage_period" label="Maximum Storage Period" language="en" table="x_snc_psm_sap_intg_material_master_staging_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_maximum_storage_period</element>
+            <help/>
+            <hint/>
+            <label>Maximum Storage Period</label>
+            <language>en</language>
+            <name>x_snc_psm_sap_intg_material_master_staging_table</name>
+            <plural>Maximum Storage Periods</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Mayank</sys_created_by>
+            <sys_created_on>2022-11-18 11:20:20</sys_created_on>
+            <sys_id>7a0623e847df111086887562846d43f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Maximum Storage Period</sys_name>
+            <sys_package display_value="Procurement Service Management Integration for SAP" source="x_snc_psm_sap_intg">1cc68aba8796d1102a18b846dabb3551</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement Service Management Integration for SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_psm_sap_intg_material_master_staging_table_u_maximum_storage_period_en</sys_update_name>
+            <sys_updated_by>Mayank</sys_updated_by>
+            <sys_updated_on>2022-11-18 11:20:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

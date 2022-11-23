@@ -1275,7 +1275,22 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_be09e73d47d3551096fcb777746d43cd"/>
-    <sys_hub_action_plan action="delete_multiple" query="action_id=be09e73d47d3551096fcb777746d43cd"/>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=be09e73d47d3551096fcb777746d43cd^sys_idNOT IN2359af3d47d3551096fcb777746d4323"/>
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Segregate service master description response">be09e73d47d3551096fcb777746d43cd</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"2359af3d47d3551096fcb777746d4323","name":"plan","plan_signature":null}}</plan>
+        <snapshot>0a596f3d47d3551096fcb777746d4343</snapshot>
+        <sys_created_by>krishna</sys_created_by>
+        <sys_created_on>2022-11-22 08:47:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2359af3d47d3551096fcb777746d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>krishna</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:47:15</sys_updated_on>
+    </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
