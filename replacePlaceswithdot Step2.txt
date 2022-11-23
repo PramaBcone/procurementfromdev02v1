@@ -1,0 +1,49 @@
+Replace Label First (app, table)
+Then Tables
+Roles
+Entity with dots
+last the app names
+
+Entity that have with dot: 
+=========================
+sys_user_role(both name and sys_name)
+sys_app_module[role change tshould be fine]
+sys_db_object
+sys_ui_module[role change should e fine]
+
+
+Example: 
+
+
+Procurement Service Management Integration for SAP
+Procurement Service Management Integration with SAP
+
+Material master staging table
+to
+Materials By Plant
+
+Update: 
+
+x_snc_psm_sap_intg_material_master_staging_table
+to
+sn_psm_sap_int_product_stg
+
+x_snc_psm_sap_intg_services
+to
+sn_psm_sap_int_services_stg
+
+
+x_snc_psm_sap_intg.services_user
+to
+sn_psm_sap_int.services_user
+
+x_snc_psm_sap_intg.material_master_staging_table_user
+to
+sn_psm_sap_int.material_master_staging_table_user
+
+
+Note: Now only the app will be left in list of xmls
+---------------------------------------------------
+x_snc_psm_sap_intg
+sn_psm_sap_int
+
